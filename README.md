@@ -18,7 +18,7 @@
 </table>
 ## 📈 Contribution Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeepakNS003&theme=github-compact&bg_color=00000000&hide_border=true&area=true&custom_title=GitHub%20Contribution%20Graph)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeepakNS003&theme=react-dark&bg_color=00000000&color=00FFFF&line=00FFFF&point=00FFFF&area=true&hide_border=true&radius=16)
 
 
 
