@@ -18,9 +18,12 @@
 </table>
 <h2>📈 Contribution Activity Graph</h2>
 
-<div style="border-radius: 16px; overflow: hidden;">
+<div style="background-color: rgba(255, 255, 255, 0.05); border-radius: 16px; padding: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); overflow: hidden;">
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepakNS003&theme=react-dark&bg_color=00000000&color=FFFFFF&line=00FFFF&point=00FFFF&area=true&hide_border=true&radius=16" alt="GitHub Contribution Graph" />
+  
 </div>
+
 
 
 
