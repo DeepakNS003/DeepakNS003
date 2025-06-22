@@ -16,9 +16,12 @@
     </td>
   </tr>
 </table>
-## 📈 Contribution Activity Graph
+<h2>📈 Contribution Activity Graph</h2>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeepakNS003&theme=react-dark&bg_color=00000000&color=FFFFFF&line=00FFFF&point=00FFFF&area=true&hide_border=true&radius=16)
+<div style="border-radius: 16px; overflow: hidden;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepakNS003&theme=react-dark&bg_color=00000000&color=FFFFFF&line=00FFFF&point=00FFFF&area=true&hide_border=true&radius=16" alt="GitHub Contribution Graph" />
+</div>
+
 
 
 ---
