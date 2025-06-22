@@ -19,17 +19,18 @@
 <h2>📈 Contribution Activity Graph</h2>
 
 <div style="
-  border: 2px solid #e0e0e0;
+  border: 2px solid white;
   border-radius: 16px;
-  background-color: rgba(240, 240, 240, 0.4);
+  background-color: rgba(100, 100, 100, 0.15); /* soft grey glass effect */
   padding: 16px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   overflow: hidden;
 ">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepakNS003&theme=light&bg_color=00000000&color=000000&line=00BFFF&point=00BFFF&area=true&hide_border=true&radius=16" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepakNS003&theme=react-dark&bg_color=00000000&color=FFFFFF&line=00FFFF&point=00FFFF&area=true&hide_border=true&radius=16" alt="GitHub Contribution Graph" />
   
 </div>
+
 
 
 
