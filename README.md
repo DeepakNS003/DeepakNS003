@@ -11,7 +11,6 @@
 <table>
   <tr>
     <td>
-      <h2>📦 Languages Used (By File Size)</h2>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakNS003&layout=compact&theme=radical" height="180">
     </td>
     <td>
