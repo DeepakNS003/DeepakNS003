@@ -8,6 +8,7 @@
 
 ## 📊 My GitHub Stats
 
+<h2>📦 Languages Used (By File Size)</h2>
 <table>
   <tr>
     <td>
@@ -15,6 +16,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 
