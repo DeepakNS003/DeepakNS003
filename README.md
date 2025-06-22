@@ -66,10 +66,6 @@
 ---
 
 > “Passionate about turning code into impactful digital solutions through AI, data science, and full-stack development.”
-
-
-![Snake animation](https://raw.githubusercontent.com/DeepakNS003/DeepakNS003/output/github-contribution-grid-snake.svg)
-
 <!--
 **DeepakNS003/DeepakNS003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
