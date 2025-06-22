@@ -20,10 +20,6 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeepakNS003&radius=16&theme=react&area=true&color=FFFFFF&line=00FFFF&point=00FFFF&bg_color=00000000&hide_border=true&order=5)
 
-
-
-
-
 ---
 
 ## 🚀 Tech Stack
