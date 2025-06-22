@@ -16,9 +16,10 @@
     </td>
   </tr>
 </table>
-📈 Deepak's Activity Graph
+## 📈 Contribution Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeepakNS003&theme=react-dark&bg_color=00000000&color=FFFFFF&line=00FFFF&point=00FFFF&area=true&hide_border=true&radius=16)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeepakNS003&radius=16&theme=react&area=true&color=FFFFFF&line=00FFFF&point=00FFFF&bg_color=00000000&hide_border=true&order=5)
+
 
 
 
