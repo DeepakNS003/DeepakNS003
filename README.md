@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakNS003&layout=compact&theme=radical" alt="Top Languages" height="180">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakNS003&layout=donut)](https://github.com/anuraghazra/github-readme-stats>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakNS003&layout=compact&theme=radical" height="180">
